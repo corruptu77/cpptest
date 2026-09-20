@@ -1,0 +1,10 @@
+#include <iostream>
+
+int main() {
+    std::cout<< "Hello World!" <<std::endl;
+    return 0;
+}
+// Bro let me run this f**king CPP 
+// THIS IS CPP WHY ARE WE RUNNING JS WITH CPP CODE
+// FUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUCK
+// I;m done. I literally am done. 
